@@ -1,0 +1,13 @@
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineDESKTOPevolved/src/components/containers/RepositoryBrowser.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineDESKTOPevolved/src/components/popup/ExternalEditorAddEditPopup.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineDESKTOPevolved/src/components/popup/GitAuthenticationPopup.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineDESKTOPevolved/src/components/popup/GitBranchSelectionPopup.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineDESKTOPevolved/src/components/popup/GitCommitSelectionPopup.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineDESKTOPevolved/src/components/popup/GitNewBranchPopup.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineSharedCore/src/actionScripts/plugin/run/view/DeviceConfiguration.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineSharedCore/src/components/controls/FileUpload.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineSharedCore/src/components/popup/NegativeRatingPopup.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineSharedCore/src/components/popup/PositiveRatingPopup.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineSharedCore/src/components/popup/ProjectsToOpenSelectionPopup.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineSharedCore/src/components/views/other/MoonshineStatusBar.mxml
+C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineSharedCore/src/components/views/other/SearchInProjectView.mxml
