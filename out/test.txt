@@ -1,2 +1,0 @@
-C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineDESKTOPevolved/src/actionScripts/impls/IClipboardBridgeImp.as
-C:/Repos/Prominic/Moonshine-IDE/ide/MoonshineDESKTOPevolved/src/actionScripts/impls/IContextMenuBridgeImp.as
